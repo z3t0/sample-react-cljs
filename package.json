@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "hello wordl",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "shadow-cljs watch app"
+  },
+  "devDependencies": {
+    "shadow-cljs": "^2.8.39"
+  },
+  "dependencies": {
+    "create-react-class": "^15.6.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-flip-move": "^3.0.3",
+    "react-highlight.js": "^1.0.7"
+  }
+}
